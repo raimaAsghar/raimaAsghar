@@ -18,8 +18,8 @@
 - 🌱 I’m currently exploring **Machine learning**
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=raimakoml904@gmail.com" style="text-decoration: none;">Email</a>
-- 💼 Portfolio: <a href="https://raimakomal-portfolio.netlify.app/" style="text-decoration: none;">Portfolio</a>
-- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/raima-komal-3a21a9292/" style="text-decoration: none;">LinkedIn</a>
+- 💼 My Portfolio Website: <a href="https://raimakomal-portfolio.netlify.app/" style="text-decoration: none;">Portfolio</a>
+- 🌐 Here is my LinkedIn: <a href="https://www.linkedin.com/in/raima-komal-3a21a9292/" style="text-decoration: none;">LinkedIn</a>
 
 
 
