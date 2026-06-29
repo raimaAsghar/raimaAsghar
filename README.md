@@ -39,6 +39,4 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raimaAsghar&theme=nord_dark&utcOffset=5" width="48%" />
-</p>
+
