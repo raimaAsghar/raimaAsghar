@@ -40,6 +40,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raimaAsghar&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raimaAsghar&theme=github_dark&utcOffset=5" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raimaAsghar&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raimaAsghar&theme=tokyonight&utcOffset=5" width="48%" />
 </p>
