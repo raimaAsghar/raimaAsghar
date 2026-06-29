@@ -33,6 +33,6 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raimaAsghar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=raimaAsghar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
