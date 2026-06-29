@@ -33,18 +33,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raimaAsghar&theme=github_dark" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raimaAsghar&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raimaAsghar&theme=github_dark" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raimaAsghar&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raimaAsghar&theme=github_dark&utcOffset=5" width="45%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=raimaAsghar)](https://git.io/streak-stats)
 
 
