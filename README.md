@@ -34,17 +34,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raimaAsghar&theme=default" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raimaAsghar&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raimaAsghar&theme=default" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raimaAsghar&theme=default" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raimaAsghar&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raimaAsghar&theme=github_dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raimaAsghar&theme=default" width="48%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raimaAsghar&theme=default&utcOffset=5" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raimaAsghar&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raimaAsghar&theme=github_dark&utcOffset=5" width="48%" />
+</p>g src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raimaAsghar&theme=default&utcOffset=5" width="48%" />
 </p>
 
 
