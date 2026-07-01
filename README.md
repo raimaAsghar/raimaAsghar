@@ -29,12 +29,12 @@
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
-  ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
 </p>
 
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raimaAsghar&theme=dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=BDBDBD)](https://git.io/streak-stats)
+![Stars](https://img.shields.io/github/stars/raimaAsghar?style=social)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
