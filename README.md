@@ -34,8 +34,7 @@
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=raimaAsghar&theme=dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=BDBDBD)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimaAsghar&show_icons=true&theme=radical)<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimaAsghar&show_icons=true&theme=radical)  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
 
