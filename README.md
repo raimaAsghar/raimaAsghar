@@ -28,40 +28,13 @@
 
 ## My Stats
 
-<div align="center">
-
-![GitHub Snake Light](https://raw.githubusercontent.com/raimaAsghar/raimaAsghar/snake/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/raimaAsghar/raimaAsghar/snake/github-snake-dark.svg#gh-dark-mode-only)
-
-</div>
+## My Stats
 
 <div align="center">
 
-<picture>
-<source
-    srcset="https://github-readme-stats.vercel.app/api?username=raimaAsghar&custom_title=Raima's%20GitHub%20Stats&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true"
-    media="(prefers-color-scheme: light)"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=raimaAsghar&show_icons=true&hide_border=true" height="180"/>
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=raimaAsghar&custom_title=Raima's%20GitHub%20Stats&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&theme=dark"
-    height="190em"
-/>
-</picture>
-
-
-<picture>
-<source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raimaAsghar&layout=compact&hide_border=true&card_width=430&hide=jupyter%20notebook,makefile,tcl"
-    media="(prefers-color-scheme: light)"
-/>
-
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimaAsghar&layout=compact&hide_border=true&card_width=430&theme=dark&hide=jupyter%20notebook,makefile,tcl"
-    height="190em"
-/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimaAsghar&layout=compact&hide_border=true" height="180"/>
 
 </div>
-
 
