@@ -6,6 +6,13 @@
 
 <h3 align="center">A passionate Full Stack Developer from Pakistan </h3>
 
+<div align="center">
+
+![GitHub Snake Light](https://raw.githubusercontent.com/raimakomal/raimakomal/snake/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/raimakomal/raimakomal/snake/github-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
