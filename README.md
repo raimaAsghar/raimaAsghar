@@ -58,23 +58,6 @@
 </picture>
 
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=raimaAsghar&show_icons=true&theme=tokyonight" />
 
----
-
-<div align="center">
-
-<a href="https://github.com/raimaAsghar">
-  <img src="https://img.shields.io/badge/GitHub-raimaAsghar-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:raimakoml904@gmail.com">
-  <img src="https://img.shields.io/badge/Email-raimakoml904%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/raima-komal-3a21a9292/">
-  <img src="https://img.shields.io/badge/LinkedIn-Raima%20Komal-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=raimaAsghar&style=flat-square&color=ff69b4"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimaAsghar&layout=compact&theme=tokyonight" />
